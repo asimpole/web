@@ -1,0 +1,30 @@
+data = `[
+    {
+      "name": "Face Masks",
+      "price": 5.00,
+      "image": "faceMask.png",
+      "sizes": [
+        "Ladies",
+        "Youth",
+        "Mens"
+      ]
+    },
+    {
+      "name": "Club Ties",
+      "price": 10.00,
+      "image": "clubTie.png",
+      "sizes": [
+        "One Size"
+      ]
+    },
+    {
+        "name": "Shorts",
+        "price": 15.00,
+        "image": "shorts.png",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+  ]`;
